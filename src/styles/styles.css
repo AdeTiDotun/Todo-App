@@ -1,0 +1,9 @@
+body {
+    background-color: #3F72AF;
+    margin: 0;
+    padding: 0;
+}
+
+#list {
+    background-color: red;
+}
