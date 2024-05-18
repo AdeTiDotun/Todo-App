@@ -1,11 +1,19 @@
 import React from "react"
-import { Header } from "./header"
 import "../src/styles/styles.css"
+import { Header } from "./Components/Header/header"
+
 
 
 function App() {
   return (
-    <Header / >
+    <div>
+      <div className="todo-div">
+
+      <Header />
+      </div>
+     
+
+    </div>
   )
 };
 

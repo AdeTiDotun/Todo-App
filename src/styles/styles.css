@@ -4,6 +4,8 @@ body {
     padding: 0;
 }
 
-#list {
-    background-color: red;
+.todo-div {
+    text-align: center;
+    background-color: aliceblue;
+    width: 1000px;
 }
