@@ -5,7 +5,9 @@ body {
 }
 
 .todo-div {
+    margin: 0 auto;
     text-align: center;
     background-color: aliceblue;
-    width: 1000px;
+    width: 600px;
+    border-radius: 10px;
 }
